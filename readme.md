@@ -11,13 +11,16 @@ github‚Å‚ÍÅ‘å100MB‚Ìƒtƒ@ƒCƒ‹‚µ‚©ƒAƒbƒvƒ[ƒh‚Å‚«‚È‚¢‚½‚ßAmatlab‚ÌƒOƒ‰ƒtƒf[ƒ^‚
 1. gcc‚È‚Ç‚Å[filesplitter.c](filesplitter.c)‚ğƒRƒ“ƒpƒCƒ‹‚·‚éB  
 64bit”Åwindows‚ğg—p‚µ‚Ä‚¢‚éê‡‚Í[ƒŒƒ|ƒWƒgƒŠ‚É‚ ‚éfilesplitter.exe](filesplitter.exe)‚ª“®‚­‚©‚à‚µ‚ê‚È‚¢B  
 2. 1‚Æ“¯‚¶ƒfƒBƒŒƒNƒgƒŠ‚É100MB‚ğ’´‚¦‚éƒtƒ@ƒCƒ‹‚ğƒRƒs[‚Ü‚½‚ÍˆÚ“®‚·‚éB  
-3. CUI‚Å `filesplitter filename` ‚ğÀs‚·‚éB’A‚µfilename‚É‚Í2‚Ìƒtƒ@ƒCƒ‹–¼(Šg’£q•t‚«)‚ğ“–‚Ä‚Í‚ß‚éB  
-4. filename_0Afilename_1AEEEA‚¨‚æ‚Ñfilename.17ec084‚Æ‚¢‚Á‚½ƒtƒ@ƒCƒ‹‚ª¶¬‚³‚ê‚éB‚±‚ê‚ç‚Í‚·‚×‚Ä100MBˆÈ“à‚È‚Ì‚Ågithub‚ÉƒAƒbƒvƒ[ƒh‚·‚é‚±‚Æ‚ª‰Â”\‚Å‚ ‚éB  
+3. CUI‚Å `filesplitter (ƒtƒ@ƒCƒ‹–¼)` ‚ğÀs‚·‚éB’A‚µ(ƒtƒ@ƒCƒ‹–¼)‚É‚Í2‚Ìƒtƒ@ƒCƒ‹–¼(Šg’£q•t‚«)‚ğ“–‚Ä‚Í‚ß‚éB  
+4. (ƒtƒ@ƒCƒ‹–¼)_0A(ƒtƒ@ƒCƒ‹–¼)_1AEEEA‚¨‚æ‚Ñ(ƒtƒ@ƒCƒ‹–¼).17ec084‚Æ‚¢‚Á‚½ƒtƒ@ƒCƒ‹‚ª¶¬‚³‚ê‚éB‚±‚ê‚ç‚Í‚·‚×‚Ä100MBˆÈ“à‚È‚Ì‚Ågithub‚ÉƒAƒbƒvƒ[ƒh‚·‚é‚±‚Æ‚ª‰Â”\‚Å‚ ‚éB  
+( (ƒtƒ@ƒCƒ‹–¼).17ec084‚ª¶¬‚³‚ê‚é‚Ü‚ÅAˆ—‚ÍI—¹‚µ‚Ä‚¢‚È‚¢‚Ì‚Å’ˆÓ‚ª•K—v )  
 
 # g—p•û–@(•ªŠ„‚³‚ê‚½ƒtƒ@ƒCƒ‹‚ğŒ³‚É–ß‚·(‡¬)ê‡)
 1. gcc‚È‚Ç‚Å[filesplitter.c](filesplitter.c)‚ğƒRƒ“ƒpƒCƒ‹‚·‚éB  
 64bit”Åwindows‚ğg—p‚µ‚Ä‚¢‚éê‡‚Í[ƒŒƒ|ƒWƒgƒŠ‚É‚ ‚éfilesplitter.exe](filesplitter.exe)‚ª“®‚­‚©‚à‚µ‚ê‚È‚¢B  
-2.  
+2. 1‚Æ“¯‚¶ƒfƒBƒŒƒNƒgƒŠ‚ÉA(ƒtƒ@ƒCƒ‹–¼)_0A(ƒtƒ@ƒCƒ‹–¼)_1AEEEA‚¨‚æ‚Ñ(ƒtƒ@ƒCƒ‹–¼).17ec084‚Æ‚¢‚Á‚½ƒtƒ@ƒCƒ‹‚ğ‚·‚×‚ÄˆÚ“®(‚Ü‚½‚ÍƒRƒs[)‚·‚éB  
+3. CUI‚Å `filesplitter (ƒtƒ@ƒCƒ‹–¼) merge` ‚ğÀs‚·‚éB  
+4. (ƒtƒ@ƒCƒ‹–¼)‚Ìƒtƒ@ƒCƒ‹ƒTƒCƒY‚ª•Ï‚í‚ç‚È‚­‚È‚é‚Ü‚Å‘Ò‚Ä‚ÎA•œŒ³‚ªŠ®—¹‚·‚éB
  
 
 
